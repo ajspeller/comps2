@@ -10,9 +10,6 @@ import { ModsHomeComponent } from './mods-home/mods-home.component';
   imports: [
     CommonModule,
     ModsRoutingModule
-  ],
-  exports: [
-    ModsHomeComponent
   ]
 })
 export class ModsModule { }
